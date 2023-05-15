@@ -8,7 +8,7 @@
 import Foundation
 
 enum Query: String, CaseIterable {
-    case food, animal, nature, people
+    case food, animal, nature, people, ocean
 }
 
 enum NetworkError: Error {

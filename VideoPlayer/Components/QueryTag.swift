@@ -9,7 +9,7 @@ import SwiftUI
 
 struct QueryTag: View {
     @State var query: Query
-    @State var isSelected: Bool
+    var isSelected: Bool
     var body: some View {
         Text(query.rawValue)
             .font(.caption)
