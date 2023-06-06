@@ -43,7 +43,7 @@ git clone https://github.com/harikrishnakesineni/VideoPlayer.git
 
 ## Tech Stack
 
-**Client:** Swift, SwiftUI, AVKit, Moderen concurrency.
+**Client:** Swift, SwiftUI, AVKit, Modern concurrency.
 
 
 
